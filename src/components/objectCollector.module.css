@@ -1,0 +1,36 @@
+.input {
+    border-radius: 10%;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 5px;
+}
+.inputs{
+    display: flex;
+    width: 35%;
+    margin-top: 10px;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid #ccc;
+}
+
+.addButton {
+    border-radius: 10%;
+    border: 1px solid #008CBA;
+    margin: 10px;
+    background-color: #008CBA;
+    padding: 7px;
+    color: white;
+}
+
+.textArea {
+    border-radius: 10%;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 5px;
+}
+
+.deleteButton {
+    background-color: white;
+    color: red;
+    border-radius: 10%;
+}
